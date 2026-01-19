@@ -14,7 +14,7 @@ This project covers:
 - Exploratory Data Analysis (EDA)
 - Feature preprocessing and handling missing values
 - Training and evaluating classification models
-- Assessing performance with metrics like ROC AUC and confusion matrices
+- Assessing performance with metrics like ROC AUC, Precision, Accuracy, F1 Score, and Recall
 - Visualization of results and insights
 
 ## Models Trained and Evaluated
